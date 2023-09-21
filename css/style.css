@@ -6,10 +6,17 @@ html {
   background: white;
 }
 
+h1 {
+  font-family: "HCo Archer SSm", Georgia, Garamond, Times New Roman;
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial,
     sans-serif;
-  font-size: 18px;
   line-height: 1.6;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
